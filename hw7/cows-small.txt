@@ -1,0 +1,5 @@
+1407,Ava,3.7
+816,Shirley,4.7
+1105,Cashew,3.4
+1408,Carmen,3.0
+1005,Shiloh,4.2
